@@ -23,6 +23,6 @@
 ### 📊Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kklee0930&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💻Most used
+### 💻Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kklee0930)](https://github.com/anuraghazra/github-readme-stats)
 <div/>

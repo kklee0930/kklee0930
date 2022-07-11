@@ -20,7 +20,9 @@ Hi There!👋 I'm Kevin and welcome to my Github!
 <img src=https://user-images.githubusercontent.com/77543446/178277002-d3e47342-7dff-4227-a455-266f8270fa12.svg alt="git" width="30" height="30" />
 <br><br><br>
 
-
+### 📊Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kklee0930&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💻Most used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kklee0930)](https://github.com/anuraghazra/github-readme-stats)
 <div/>

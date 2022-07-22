@@ -10,12 +10,7 @@
 <br><br>
 
 #### ✍️I am currently learning✍️
-<img src=https://user-images.githubusercontent.com/77543446/178277462-acf251b3-f21a-45df-8140-3ce8e789dbc3.svg alt="python" width="30" height="30" />
-<img src=https://user-images.githubusercontent.com/77543446/178278849-6d298b53-ef97-45cf-a2c7-8c10998a3cea.svg alt="html" width="30" height="30" />
-<img src=https://user-images.githubusercontent.com/77543446/178278849-6d298b53-ef97-45cf-a2c7-8c10998a3cea.svg alt="html" width="30" height="30" />
-<img src=https://user-images.githubusercontent.com/77543446/178278432-b75b8e93-c50a-4c75-b5d2-43c711119867.svg alt="css" width="30" height="30" />
-<img src=https://user-images.githubusercontent.com/77543446/178277714-ab11c04f-179f-4dcc-803e-1844f6b36691.svg alt="javascript' width="30" height="30" />
-<img src=https://user-images.githubusercontent.com/77543446/178277002-d3e47342-7dff-4227-a455-266f8270fa12.svg alt="git" width="30" height="30" />
+<img src=https://user-images.githubusercontent.com/77543446/178277462-acf251b3-f21a-45df-8140-3ce8e789dbc3.svg alt="python" width="30" height="30" /><img src=https://user-images.githubusercontent.com/77543446/178278849-6d298b53-ef97-45cf-a2c7-8c10998a3cea.svg alt="html" width="30" height="30" /><img src=https://user-images.githubusercontent.com/77543446/178278432-b75b8e93-c50a-4c75-b5d2-43c711119867.svg alt="css" width="30" height="30" /><img src=https://user-images.githubusercontent.com/77543446/178277002-d3e47342-7dff-4227-a455-266f8270fa12.svg alt="git" width="30" height="30" /><img src=https://user-images.githubusercontent.com/77543446/180495010-1d8a914b-0f5d-4e77-ac05-50e7b799609f.svg alt="javascript" width="30" height="30" />
 <br><br><br>
 
 ### 📊Stats

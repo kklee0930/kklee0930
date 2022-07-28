@@ -2,13 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/77543446/179258786-386492e8-8424-49ee-8194-ca8bb33cbc19.png" /><br><br>
 
-# 🗂️Profile
+# 🗂️Profile 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkklee0930%2Fhit-counter&count_bg=%232C3F49&title_bg=%2361BCFF&icon=octopusdeploy.svg&icon_color=%23E7E7E7&title=kklee0930&edge_flat=false)](https://hits.seeyoufarm.com)
 
 💻Undergraduate student at Pusan National University (2016.03 ~ 2022.07)
 
 💻MultiCampus KDT Course (2022.07 ~ 2022.12)
 
-[![kklee0930](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkklee0930%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2357B4DB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 
 # 📫Reach me
@@ -21,8 +22,6 @@
 <br><br><br>
 
 # 📊Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kklee0930&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kklee0930&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kklee0930&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kklee0930)](https://solved.ac/kklee0930/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kklee0930)](https://github.com/anuraghazra/github-readme-stats)
-

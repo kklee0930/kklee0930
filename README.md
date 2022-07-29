@@ -1,6 +1,6 @@
-# 🤚Welcome🤚
+# 🤚Welcome 
 
-<img src="https://user-images.githubusercontent.com/77543446/179258786-386492e8-8424-49ee-8194-ca8bb33cbc19.png" /><br><br>
+<img src="https://user-images.githubusercontent.com/77543446/179258786-386492e8-8424-49ee-8194-ca8bb33cbc19.png" width='60%' height='60%' /><br><br>
 
 ## 🗂️Profile 
 

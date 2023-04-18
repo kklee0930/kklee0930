@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkklee0930%2Fhit-counter&count_bg=%232C3F49&title_bg=%2361BCFF&icon=octopusdeploy.svg&icon_color=%23E7E7E7&title=kklee0930&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 💻Pusan National University (2016.03 ~ 2022.08) 
-- Bachelor's Degree in Industrial Engineering
+- Bachelor's Degree in Industrial Engineering, 잔디가 안심어진다...
 
 #### 💻Multicampus KDT Course (2022.07 ~ 2022.12)
 <br><br>

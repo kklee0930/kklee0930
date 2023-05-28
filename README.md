@@ -24,5 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kklee0930&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src=https://user-images.githubusercontent.com/77543446/178277462-acf251b3-f21a-45df-8140-3ce8e789dbc3.svg alt="python" width="30" height="30" /> Python
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kklee0930)](https://solved.ac/kklee0930/)
+### Python <img src=https://user-images.githubusercontent.com/77543446/178277462-acf251b3-f21a-45df-8140-3ce8e789dbc3.svg alt="python" width="20" height="20" /> / Java  <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kklee0930)](https://solved.ac/kklee0930)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kklee0930_2)](https://solved.ac/kklee0930_2)

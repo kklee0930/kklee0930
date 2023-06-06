@@ -20,8 +20,8 @@
 <br><br><br>
 
 ## 📊Stats
-![](https://github-readme-stats.vercel.app/api?username=kklee0930&theme=nord&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kklee0930&theme=nord&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=kklee0930&theme=nord&show_icons=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kklee0930&theme=nord&layout=compact)
 
 ### Python <img src=https://user-images.githubusercontent.com/77543446/178277462-acf251b3-f21a-45df-8140-3ce8e789dbc3.svg alt="python" width="20" height="20" /> / Java <img src=https://user-images.githubusercontent.com/77543446/241553976-70681344-aaf5-426d-8c80-f9bf34c2be15.svg alt="java" width="25" height="25" /> <br> 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kklee0930)

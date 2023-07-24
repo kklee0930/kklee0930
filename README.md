@@ -8,6 +8,8 @@
 - Bachelor's Degree in Industrial Engineering
 
 #### 💻Multicampus KDT Course (2022.07 ~ 2022.12)
+
+#### 💻Spharos Academy (2023.07 ~ 2023.12)
 <br><br>
 
 ## 📫Reach me

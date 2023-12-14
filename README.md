@@ -25,7 +25,7 @@
 ### History
 - 💻Shinsegae I&C Spharos Academy (2023.07 ~ 2023.12)
 - 💻Multicampus KDT Course (2022.07 ~ 2022.12)
-- 💻Pusan National University (2016.03 ~ 2022.08)
+- 📚Pusan National University (2016.03 ~ 2022.08)
 
 ### Python / Java
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kklee0930)

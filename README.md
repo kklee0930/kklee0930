@@ -1,7 +1,7 @@
 <div align="center">
 <h2>🌱Donghee Lee</h2><br>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkklee0930%2Fhit-counter&count_bg=%232C3F49&title_bg=%2361BCFF&icon=octopusdeploy.svg&icon_color=%23E7E7E7&title=방문&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkklee0930%2Fhit-counter&count_bg=%232C3F49&title_bg=%2361BCFF&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://pseudocode0930.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/heeddong_2/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?flat&logo=instagram&logoColor=white"/></a>
 <a href='mailto:kklee0930@pusan.ac.kr' target="_blank"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>

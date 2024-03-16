@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/heeddong_2/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?flat&logo=instagram&logoColor=white"/></a>
 <a href='mailto:kklee0930@pusan.ac.kr' target="_blank"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
-﻿[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kklee0930&theme=nord&layout=compact)](https://github.com/kklee0930/kklee0930)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kklee0930&theme=nord&layout=compact)](https://github.com/kklee0930/github-readme-stats)﻿
 
 <h3>📚Tech Stacks</h3>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">

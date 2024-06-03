@@ -23,6 +23,7 @@
 </div>
 
 ### History
+- 💻KRAFTON Jungle 6th (2024.07 ~ 2024.12)
 - 💻Shinsegae I&C Spharos Academy (2023.07 ~ 2023.12)
 - 💻Multicampus KDT Course (2022.07 ~ 2022.12)
 - 💻Pusan National University (2016.03 ~ 2022.08)
